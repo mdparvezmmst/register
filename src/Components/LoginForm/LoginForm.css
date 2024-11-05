@@ -1,0 +1,20 @@
+.login-link {
+  margin-top: 20px; /* Consistent spacing */
+}
+
+.login-link p {
+  font-size: 16px;
+  color: #424242;
+}
+
+.login-link a {
+  color: #f57c00; /* Matching vibrant orange for links */
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s; /* Smooth transition for links */
+}
+
+.login-link a:hover {
+  text-decoration: underline; /* Underline on hover */
+  color: #ef6c00; /* Darker orange on hover */
+}
